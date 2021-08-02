@@ -30,6 +30,10 @@ app.get('', (req, res) => {
     res.render('squad')
   })
 
+  app.get('/fixtures', (req, res) => {
+    res.render('fixtures')
+  })
+
 
 
   app.listen(port, () => {

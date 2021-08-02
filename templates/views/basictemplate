@@ -1,4 +1,11 @@
-<html><body>
+<html>
+
+<head>
+        <title>TBZ - Home</title>
+        <link href="/css/index.css" rel="stylesheet">
+        </head>
+
+<body>
 	<header>
 		<%- include('../partials/header'); %>
 	  </header>

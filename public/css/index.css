@@ -2,6 +2,7 @@
     margin-top:50px;
     height:auto;
     width:100%;
+    margin-bottom:0px;
 }
 
 .home-wrap {
@@ -20,6 +21,28 @@
             flex-direction: row;  
             height:200px;        
           
+}
+
+.front-page {
+   
+    margin-top:-55px;
+    margin-bottom:0px;
+    text-align:center;
+    color:rgb(26, 26, 26);
+    padding-top:30px;
+    padding-bottom:5px; 
+    background-color:rgb(216, 202, 4);
+}
+
+h2 
+{
+    font-size:4rem;
+    font-weight:bold;
+}
+
+.score {
+    font-size:3rem;
+    font-weight:bold;
 }
 
 .date2 {
@@ -93,15 +116,16 @@ font-size:2.2rem;
     width:100%;
     margin:auto auto;
     text-align:center;
-    background-color:rgb(255, 248, 248);
+    background-color:rgb(255, 217, 4);
     padding-bottom:50px;
     padding-top:20px;
     margin-bottom:0px;
+    margin-top:40px;
    
 }
 
 .upcoming {
-    width:100%;
+    width:95%;
     margin:auto auto;
     text-align:center;
     margin-bottom:50px;

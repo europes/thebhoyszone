@@ -131,7 +131,7 @@ html {
   width:100%;	
   margin-left:0px;
   margin-right:0px;
-  background-color:#053b11;
+  background-image:linear-gradient(rgb(2, 66, 2), rgb(3, 148, 3));
   border-bottom: 2px solid gray;
   justify-content:space-between;
   color:#1a1a1a;
