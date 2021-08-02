@@ -5,35 +5,49 @@
 }
 
 .home-wrap {
-    display:flex;
+    display:grid;
+    margin:auto auto;
+    padding-bottom:50px;
+    width:100%;
+    margin-bottom:0px;
 }
 
 .table {
-    width:50%;
+    width:100%;
+    margin:auto auto;
+    text-align:center;
+    background-color:rgb(166, 219, 166);
+    padding-bottom:50px;
+    padding-top:20px;
+ 
+   
 }
 
 .upcoming {
-    width:50%;
+    width:100%;
+    margin:auto auto;
+    text-align:center;
+    margin-bottom:50px;
 }
 
-#table {
-    margin-top:20px;
-    margin-left:10px;
-    margin-right:10px;
-        margin-bottom:20px;   
+#table {   
     border: 2px solid rgb(114, 114, 114);
+    margin:auto auto;
+    text-align:center;
 }
 
 h1 {
-    color: rgb(1, 12, 4);
-    text-align:center;    
+    color: rgb(166, 168, 16);
+    text-align:center;   
+    text-decoration:underline;
+    font-size:3rem; 
 }
 
 .up-fixtures {
-    border: 2px solid grey;
-    margin-top:42px;
+   
+    margin:auto auto;
     color:black;
-    line-height:349%;
+    line-height:200%;
 padding-left:10px;
-margin-right:10px;
+
 }
