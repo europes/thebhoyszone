@@ -29,8 +29,7 @@
     text-align: center;
     vertical-align:center;
     font-style:italic;
-    color:rgb(180, 179, 179);
-
+    color:rgb(228, 228, 228);
 
 }
 
@@ -41,20 +40,21 @@ background-color:rgb(7, 80, 7);
 border: 2px solid black;
 vertical-align:center;
 font-style:italic;
-color:rgb(180, 179, 179);
+color:rgb(228, 228, 228);
 
 }
 
 .competition2 {
     width:50%;
     text-align: center;
-    background-color:rgb(177, 165, 0);
+    background-color:rgb(139, 126, 1);
     border: 2px solid black;
     vertical-align:center;
     font-style:italic;
-    color:rgb(202, 199, 199);
+    color:rgb(228, 228, 228);
 
 }
+
 
 .date {
     width:20%;    
@@ -63,7 +63,7 @@ color:rgb(180, 179, 179);
     text-align: center;
     vertical-align:center;
     font-weight:bold;
-    font-size:2.5rem;
+    font-size:2.2rem;
 }
 
 .opponent {
@@ -73,18 +73,18 @@ background-color:rgb(51, 158, 51);
 border: 2px solid black;
 vertical-align:center;
 font-weight:bold;
-font-size:2.5rem;
+font-size:2.2rem;
 
 }
 
 .competition {
     width:50%;
     text-align: center;
-    background-color:rgb(202, 183, 9);
+    background-color:rgb(187, 159, 3);
     border: 2px solid black;
     vertical-align:center;
     font-weight:bold;
-    font-size:2.5rem;
+    font-size:2.2rem;
 
 }
 
@@ -93,7 +93,7 @@ font-size:2.5rem;
     width:100%;
     margin:auto auto;
     text-align:center;
-    background-color:rgb(216, 245, 216);
+    background-color:rgb(255, 248, 248);
     padding-bottom:50px;
     padding-top:20px;
     margin-bottom:0px;
@@ -117,8 +117,7 @@ font-size:2.5rem;
 
 h1 {
     color: rgb(0, 0, 0);
-    text-align:center;   
-    text-decoration:underline;
+    text-align:center;      
     font-size:3.5rem; 
 }
 
