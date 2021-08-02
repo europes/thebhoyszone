@@ -6,8 +6,7 @@
 
 .home-wrap {
     display:grid;
-    margin:auto auto;
-    padding-bottom:50px;
+    margin:auto auto;    
     width:100%;
     margin-bottom:0px;
 }
@@ -19,7 +18,7 @@
     background-color:rgb(166, 219, 166);
     padding-bottom:50px;
     padding-top:20px;
- 
+    margin-bottom:0px;
    
 }
 
@@ -39,7 +38,7 @@
 }
 
 h1 {
-    color: rgb(166, 168, 16);
+    color: rgb(107, 109, 9);
     text-align:center;   
     text-decoration:underline;
     font-size:3rem; 
