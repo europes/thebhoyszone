@@ -1,0 +1,39 @@
+#ange {
+    margin-top:50px;
+    height:800px;
+    width:100%;
+}
+
+.home-wrap {
+    display:flex;
+}
+
+.table {
+    width:50%;
+}
+
+.upcoming {
+    width:50%;
+}
+
+#table {
+    margin-top:20px;
+    margin-left:10px;
+    margin-right:10px;
+        margin-bottom:20px;   
+    border: 2px solid rgb(114, 114, 114);
+}
+
+h1 {
+    color: rgb(1, 12, 4);
+    text-align:center;    
+}
+
+.up-fixtures {
+    border: 2px solid grey;
+    margin-top:42px;
+    color:black;
+    line-height:349%;
+padding-left:10px;
+margin-right:10px;
+}

@@ -1,0 +1,14 @@
+<html><body>
+	<header>
+		<%- include('../partials/header'); %>
+	  </header>
+      <div class="main-wrap">
+        <div class="article">
+
+        </div>
+    
+</div>
+      <footer>
+		<%- include('../partials/footer'); %>
+	  </footer>
+</body></html>
