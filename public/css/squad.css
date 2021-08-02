@@ -1,6 +1,6 @@
 h1 {
     color:black;  
-        color: rgb(107, 109, 9);
+        color: rgb(207, 179, 20);
         text-align:center;   
         text-decoration:underline;
         font-size:3.5rem; 
@@ -20,6 +20,10 @@ table {
     font-size:2.5rem;
     background-color: rgb(216, 245, 216);
     text-align:center;
+}
+
+.gks {
+    width:50%;
 }
 
 .profile {
