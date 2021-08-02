@@ -26,6 +26,10 @@ app.get('', (req, res) => {
   })
   
 
+  app.get('/squad', (req, res) => {
+    res.render('squad')
+  })
+
 
 
   app.listen(port, () => {

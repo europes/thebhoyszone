@@ -1,0 +1,29 @@
+h1 {
+    color:black;  
+        color: rgb(107, 109, 9);
+        text-align:center;   
+        text-decoration:underline;
+        font-size:3.5rem; 
+    }
+    
+
+.article {
+    margin-top:50px;
+}
+
+table {
+    color:black;
+    border:2px solid black;
+    border-collapse: collapse;
+    margin: auto auto;
+    padding:10px;
+}
+
+.profile {
+    height:50px;
+}
+
+td, tr, th {
+    border:2px solid black;
+    padding:10px;
+}
