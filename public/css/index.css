@@ -11,6 +11,84 @@
     margin-bottom:0px;
 }
 
+.fix-flex {
+    display:flex;   
+    color:white;    
+            justify-content: center;
+            text-align: center;
+            vertical-align:center;
+            flex-direction: row;  
+            height:200px;        
+          
+}
+
+.date2 {
+    width:20%;    
+    background-color:rgb(34, 34, 34);
+    border: 2px solid black;
+    text-align: center;
+    vertical-align:center;
+    font-style:italic;
+    color:rgb(180, 179, 179);
+
+
+}
+
+.opponent2 {
+width:30%;
+text-align: center;
+background-color:rgb(7, 80, 7);
+border: 2px solid black;
+vertical-align:center;
+font-style:italic;
+color:rgb(180, 179, 179);
+
+}
+
+.competition2 {
+    width:50%;
+    text-align: center;
+    background-color:rgb(177, 165, 0);
+    border: 2px solid black;
+    vertical-align:center;
+    font-style:italic;
+    color:rgb(202, 199, 199);
+
+}
+
+.date {
+    width:20%;    
+    background-color:rgb(63, 62, 62);
+    border: 2px solid black;
+    text-align: center;
+    vertical-align:center;
+    font-weight:bold;
+    font-size:2.5rem;
+}
+
+.opponent {
+width:30%;
+text-align: center;
+background-color:rgb(51, 158, 51);
+border: 2px solid black;
+vertical-align:center;
+font-weight:bold;
+font-size:2.5rem;
+
+}
+
+.competition {
+    width:50%;
+    text-align: center;
+    background-color:rgb(202, 183, 9);
+    border: 2px solid black;
+    vertical-align:center;
+    font-weight:bold;
+    font-size:2.5rem;
+
+}
+
+
 .table {
     width:100%;
     margin:auto auto;
@@ -38,7 +116,7 @@
 }
 
 h1 {
-    color: rgb(207, 179, 20);
+    color: rgb(0, 0, 0);
     text-align:center;   
     text-decoration:underline;
     font-size:3.5rem; 
