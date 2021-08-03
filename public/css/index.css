@@ -52,7 +52,7 @@
     left:50px;
     top:360px;
     font-size: 18rem;
-    color:rgb(37, 158, 0);
+    color:rgb(184, 184, 184);
 }
 
 
@@ -63,8 +63,7 @@
     color:rgb(255, 255, 255);
     padding-top:-40px;
     padding-bottom:20px; 
-    background-color:rgb(0, 0, 0, 0.7);
-    border: 5px solid rgb(255, 255, 255);  
+    background-color:rgb(0, 0, 0, 0.7);   
     width:60%;
     height:220px;    
     z-index:1000;
