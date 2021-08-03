@@ -53,23 +53,24 @@
     height:220px;    
     z-index:1000;
     position:absolute;
-    top:480px;
+    top:465px;
     right:20px;
 }
 
 .small {
     font-size:2rem;
+    color:rgb(10, 128, 10);
 }
 
 h2 
 {
     font-size:2rem;
     font-weight:bold;
-    color:white;
+    color:rgb(27, 189, 27);
 }
 
 .green {
-    color:green;
+    color:rgb(26, 194, 26);
 }
 
 .score {
