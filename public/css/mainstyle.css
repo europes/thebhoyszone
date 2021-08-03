@@ -187,7 +187,7 @@ html {
   
   .footer-container {		
   text-align: center;		
-  font-size:1rem;	
+  font-size:2rem;	
   flex-shrink:0px;
   width:100%;  
        }
@@ -203,7 +203,7 @@ html {
   .footer {
   padding-bottom:20px;
   padding-top:120px;
-  background-color: #043103;	 	  
+  background-color: #011101;	 	  
   color:#f2f2f2;
   margin-bottom:0px;
   margin-top:0px;
